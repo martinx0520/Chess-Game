@@ -1,0 +1,46 @@
+﻿  Chess.cpp
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1341,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1342,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1531,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1531,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1578,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1578,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1582,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1582,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1587,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1587,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1593,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1593,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1611,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1611,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1615,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1615,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1619,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1619,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1623,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1623,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1627,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1627,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1631,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1631,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1635,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1635,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1639,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1639,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1643,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1643,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1647,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1647,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1651,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1651,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1655,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\source\repos\Chess\Chess\Chess.cpp(1655,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Chess.vcxproj -> C:\Users\marti\source\repos\Chess\Debug\Chess.exe
